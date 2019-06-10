@@ -13,3 +13,6 @@ __Guías__:
 
 __Apuntes__:
   - [UML Básico](Apuntes/UML/basico.md)
+  
+  https://docs.google.com/document/d/1Pa-UrUYlXsoHeIMyFbIdhA41jceB8fPTCdfxZXZr74o/edit?usp=sharing
+  
